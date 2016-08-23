@@ -1,0 +1,20 @@
+*- Cuantos pomodoros te tomo terminar?
+
+Use dos pomodoros para terminar el JavaScripting
+
+*- Que temas son con lo que mas luchaste? (Del mas dificil al menos dificil...)
+
+- La falta de conocimientos con respecto a los comandos usados por javascript
+fueron una gran debilidad a la hora de resolver las actividades propuestas.
+- El tema de los ciclos se me dificulto.
+- La forma de hacer las funciones fue diferente a la usada en el CodeAcademy,
+me parecio mucho mas de usar.
+
+*- Que es npm? Para que usamos el alias js=javascripting?
+
+Es el manejador de paquetes por defecto para Node.js, un entorno de ejecución
+para JavaScript.
+
+*- Para que usamos el alias js=javascripting?
+
+Lo usamos para ejecutar los comandos de JavaScript desde la consola.
